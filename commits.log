@@ -1,0 +1,86 @@
+commit c40b066be0287b858a86b43d362497dd8dd0a069
+Author: Rodrigo <modrips4@gmail.com>
+Date:   Sat Sep 28 19:00:32 2024 -0300
+
+    Agregando 2 parrafos
+
+commit de05b1fd30a3b1805f1239542815fb7a2189564a
+Merge: 869d13a fc4128a
+Author: Rodrigo <modrips4@gmail.com>
+Date:   Sat Sep 28 18:40:12 2024 -0300
+
+    Resolviendo conflicto en Estaciones del año y fechas de inicio
+
+commit 869d13a1b35693de914daa0cc46b5b873fa46ce0
+Author: Rodrigo <modrips4@gmail.com>
+Date:   Sat Sep 28 18:25:46 2024 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit fc4128a6d3c57e4c081dcdbd11e52cf515c6ffaa
+Author: Rodrigo <modrips4@gmail.com>
+Date:   Sat Sep 28 18:25:46 2024 -0300
+
+    Agregando las estaciones del año
+
+commit 7d1a126f9a40201a69316eac6e9c4fa0303a0540
+Merge: 2629c14 486c7d2
+Author: Rodrigo <modrips4@gmail.com>
+Date:   Sat Sep 28 18:20:43 2024 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 486c7d2ee3d3c99c64fe35e47c54125527765f51
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 18:11:31 2024 -0300
+
+    Agregando index.js al index.html
+
+commit 2629c14a82c226753973033744d14397b84dbba2
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 18:09:29 2024 -0300
+
+    Agregando style.css al index.html
+
+commit 7b6e0d29be6378e71f011fb4e2dfd24dc882950d
+Merge: e483e20 990e676
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 17:59:00 2024 -0300
+
+    Merge branch 'js'
+
+commit 990e67641451a899fb6139f7d0a9134c8ff9bbdd
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 17:54:07 2024 -0300
+
+    Creando index.js
+
+commit e483e2067d7fc76f0e59234acf4b84a64c4cd592
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 17:50:06 2024 -0300
+
+    Creando style.css
+
+commit 1f8d1f7aa3d66c884b0cb39a0f31f0c859a130b0
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 17:46:14 2024 -0300
+
+    Creando index.html
+
+commit dd8b8825594277109fa042d9dc099d243c17f93a
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 17:15:11 2024 -0300
+
+    Ignorando archivos .exe
+
+commit b18e3b8bea8dd57c1157e4faccb1596969d5e151
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 17:06:00 2024 -0300
+
+    Agregando contenido al README
+
+commit ffbbd4b7cd106ff45ef3db25dda5e20c8cce10cf
+Author: ciosek19 <modrips4@gmail.com>
+Date:   Sat Sep 28 16:50:07 2024 -0300
+
+    mi primero commit
